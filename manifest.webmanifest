@@ -5,7 +5,7 @@
   "description": "מדריך למטייל בבוקרשט: מפה, אתרים, מלונות, מטרו, מסעדות, מסלולים, מזג אוויר ועוד. יוצר: יעקב זוהר",
   "lang": "he",
   "dir": "rtl",
-  "start_url": "./index.html",
+  "start_url": "/Bucharest/",
   "scope": "/Bucharest/",
   "display": "standalone",
   "orientation": "any",
